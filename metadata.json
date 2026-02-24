@@ -1,0 +1,5 @@
+{
+  "name": "Bus Shelter Light Validator",
+  "description": "Human-in-the-Loop (HITL) validation tool for AI image analysis of bus shelter lights.",
+  "requestFramePermissions": []
+}
